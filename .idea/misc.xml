@@ -4,6 +4,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/01-we-rsvp-service/starter/rsvp-service/pom.xml" />
+        <option value="$PROJECT_DIR$/rsvp-service/starter/rsvp-service/pom.xml" />
       </list>
     </option>
   </component>
